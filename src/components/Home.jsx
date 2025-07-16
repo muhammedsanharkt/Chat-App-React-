@@ -14,7 +14,7 @@ function Home() {
                     Simple Chat
                   </h1>
                   <p className="lead text-muted mb-4">
-                    A tiny React + Firebase chat app to learn React basics 🚀
+                    A tiny React + Firebase chat app 🚀
                   </p>
                 </div>
 
